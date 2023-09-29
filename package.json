@@ -13,6 +13,7 @@
     "express": "^4.18.2"
   },
   "ampt": {
-    "app": "javascript-express-api"
+    "app": "topuniverse-ampt-serverless-class",
+    "org": "solomonmarvel392480"
   }
 }
